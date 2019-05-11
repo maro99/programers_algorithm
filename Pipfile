@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 jupyter = "*"
 notebook = "*"
+numpy = "*"
+sympy = "*"
+mpmath = "*"
+scipy = "*"
 
 [dev-packages]
 
